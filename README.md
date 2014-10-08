@@ -1,3 +1,3 @@
 SteamBotPython
 ==============
-Prepare to be pythonified steambot
+Prepare to be pythonified steambot!
